@@ -4,7 +4,7 @@ This repository contains tasks completed for XenonStack.
 
 ## Task 1: Linux Commands
 
-In the "linux-tasks" folder, you'll find scripts and documentation for a custom Linux command named `internsctl`. This command provides functionalities for CPU and memory information retrieval, user management, and file information. For detailed information and usage, refer to the [internsctl README](./linux-tasks/README.md).
+In the "linux-tasks" folder, you'll find scripts and documentation for a custom Linux command named `internsctl`. This command provides functionalities for CPU and memory information retrieval, user management, and file information. For detailed information and usage, refer to the [internsctl README](Linux Task/README.md).
 
 ## Task 2: Basic Web Project
 
