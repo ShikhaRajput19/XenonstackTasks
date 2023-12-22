@@ -1,4 +1,4 @@
-.TH internsctl 1 "22 Dec 2023" "0.1.0" "Custom Command"
+.TH internsctl 1 "10 July 2023" "0.1.0" "Custom Command"
 .SH NAME 
 "internsctl"
 .SH SYNOPSIS
